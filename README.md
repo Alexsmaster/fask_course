@@ -1,2 +1,2 @@
-# fask_course
+# flask_course
 learning flask
